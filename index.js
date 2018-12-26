@@ -1,6 +1,6 @@
 const Discord = require('discord.js-commando');
 const bot = new Discord.Client();
-const key = 'NTI1NDIzNjUyOTcyNTI3NjM2.Dv2asA.eQ2UOuMEy6N-44IgwT8u1vi-HQ8'
+const key = had to delete due to privacy concerns :)
 
 bot.registry.registerGroup('simple','Simple');
 bot.registry.registerGroup('music', 'Music');
